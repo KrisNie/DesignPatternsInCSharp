@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/hyomin/.dotnet/store/|arch|/|tfm|",
+      "/Users/hyomin/.nuget/packages"
+    ]
+  }
+}
