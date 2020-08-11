@@ -1,0 +1,12 @@
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/bin/Debug/netcoreapp3.1/Builder.deps.json
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.json
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.dev.json
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/bin/Debug/netcoreapp3.1/Builder.dll
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/bin/Debug/netcoreapp3.1/Builder.pdb
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.csprojAssemblyReference.cache
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfoInputs.cache
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfo.cs
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.csproj.CoreCompileInputs.cache
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.dll
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.pdb
+/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Builder/obj/Debug/netcoreapp3.1/Builder.genruntimeconfig.cache
