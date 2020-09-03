@@ -361,3 +361,5 @@ MigrationBackup/
 .ionide/
 
 .DS_Store
+.cache
+.csprojAssemblyReference.cache
