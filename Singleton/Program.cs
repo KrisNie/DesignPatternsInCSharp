@@ -6,7 +6,17 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                var chocoEggs = ChocolateBoiler.GetInstance();
+                chocoEggs.Fill();
+                chocoEggs.Boil();
+                chocoEggs.Drain();
+            }
+            catch (Exception)
+            {
+                Console.Write("Oops");
+            }
         }
     }
 }
