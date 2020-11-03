@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AnXljUF3be/4t+4dHWFSA4OFdwYHlBaEswUWxQiQWA9KD3DdhapmZgTKbvHT0ODYkFbFK194B/5Y8kXCSDsYIg==",
+  "dgSpecHash": "wcrJ9J28ikE2oqp5pQociiQBsf83XiVt7wYm7U+BjF/kMoMhPFEP0feeH1U9CiSOg3jnMblOsTdJ5hMMM2p/Hw==",
   "success": true,
   "projectFilePath": "/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/AbstractFactory/AbstractFactory.csproj",
   "expectedPackageFiles": [],

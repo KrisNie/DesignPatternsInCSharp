@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{33B8210B-03B2-46B9-8884-BD3444A2C349}|Default">
+﻿<Properties StartupConfiguration="{E8367CE4-2625-4C70-8B71-778FCC60DE4C}|Default">
   <MonoDevelop.Ide.ItemProperties.DesignPatternsInCSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
@@ -7,16 +7,13 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DesignPatternsInCSharp" expanded="True">
-            <Node name="DesignPatternsInCSharp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="DesignPatternsInCSharp" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StructuralDesignPatterns_220.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
