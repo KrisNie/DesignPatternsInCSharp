@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DgrXO23N4ogwWLbm7CRsr8665NBdBINNHMXxHfsfs4mwrFoW5aQk/P5s5H3rJFoJZQ8ecWGVv4FKyPB/p3ggzA==",
+  "dgSpecHash": "9YjC1xmsO4SOxXU2R+uBDGfsBkb80oEHKe8hEEmcs6uddke7uR94QhErkyHQLqlOjxkWSeoNJcmT/4ccPJvvMg==",
   "success": true,
-  "projectFilePath": "/Users/hyomin/WorkSpace/Project/DesignPatternsInCSharp/Singleton/Singleton.csproj",
+  "projectFilePath": "C:\\Development\\Repos\\DesignPatternsInCSharp\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
